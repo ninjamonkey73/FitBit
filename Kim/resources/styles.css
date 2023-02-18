@@ -1,0 +1,42 @@
+#timeLabel {
+  font-size: 100;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 99%;
+  fill: black;
+}
+
+#timeLabelBorder {
+  font-size: 101;
+  font-family: Seville-Bold;
+  font-weight: bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 99%;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 35;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%;
+  fill: black;
+}
+
+#dateLabelBorder {
+  font-size: 36;
+  font-family: Seville-Bold;
+  font-weight: bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%;
+  fill: white;
+}
+

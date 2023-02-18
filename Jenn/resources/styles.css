@@ -1,0 +1,39 @@
+#timeLabel {
+  font-size: 210;
+  font-family: Tungsten-Medium;
+  text-length: 5;
+  text-anchor: middle;
+  x: 50%;
+  y: 97%;
+  fill: blueviolet;
+}
+
+#timeLabelBorder {
+  font-size: 215;
+  font-family: Tungsten-Medium;
+  text-length: 5;
+  text-anchor: middle;
+  x: 50%;
+  y: 97%;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 55;
+  font-family: Tungsten-Medium;
+  text-length: 18;
+  text-anchor: middle;
+  x: 50%;
+  y: 15%;
+  fill: lightgray;
+}
+
+#dateLabelBorder {
+  font-size: 56;
+  font-family: Tungsten-Medium;
+  text-length: 18;
+  text-anchor: middle;
+  x: 50%;
+  y: 15%;
+  fill: black;
+}

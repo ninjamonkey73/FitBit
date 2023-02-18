@@ -1,0 +1,7 @@
+<svg>
+  <image href="maleficent.jpg" load="sync"/>
+  <text id="timeLabelBorder" />
+  <text id="timeLabel" />
+  <text id="dateLabelBorder" />
+  <text id="dateLabel" />
+</svg>

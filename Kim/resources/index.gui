@@ -1,0 +1,9 @@
+<svg>
+  <image href="Avery Ty 2021.jpg"  load="sync"/>
+  <rect x="0" y="0" width="300" height="40" fill="dimgray"/>
+  <rect x="0" y="220" width="300" height="80" fill="dimgray"/>
+  <text id="timeLabelBorder" />
+  <text id="timeLabel" />
+  <text id="dateLabelBorder" />
+  <text id="dateLabel" />
+</svg>

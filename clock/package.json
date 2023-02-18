@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "a198e8ee-f3d0-4e63-b35a-09e330c47e1a",
+    "appType": "clockface",
+    "appDisplayName": "clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+  "@fitbit/sdk": "~6.1.0",
+  "@fitbit/sdk-cli": "^1.7.3"
+}
+}

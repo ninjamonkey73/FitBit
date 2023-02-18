@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+  "@fitbit/sdk": "~6.1.0",
+  "@fitbit/sdk-cli": "^1.7.3"
+},
+  "fitbit": {
+    "appUUID": "d69439c1-14f1-4f31-9d32-3352abef753d",
+    "appType": "clockface",
+    "appDisplayName": "Kim's Pic Versa",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate",
+      "access_location",
+      "access_internet",
+      "run_background",
+      "access_exercise",
+      "access_calendar",
+      "access_sleep"
+    ],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Kim's Pic Versa"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

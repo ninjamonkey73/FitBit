@@ -1,0 +1,11 @@
+<svg>
+  <image href="nebula.jpg" load="sync"/>
+  <image href="heart.png" x="240" y="225" width="32" height="30" />
+  <image href="steps.png" x="40" y="225" width="35" height="35" />
+  <image id="batImg" x="47%" y="220" width="20" height="35" />
+  <text id="timeLabel" />
+  <text id="dateLabel" />
+  <text id="stepsData" class="sensor-data" x="20%" y="95%"> ... </text>
+  <text id="battPct" class="sensor-data" x="50%" y="95%"> ... </text>
+  <text id="hrmData" class="sensor-data" x="85%" y="95%"> ... </text>
+</svg>
